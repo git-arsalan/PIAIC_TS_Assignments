@@ -1,2 +1,2 @@
-## Objective for Excercise 2
+## Objective for Excercise 3
 Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
