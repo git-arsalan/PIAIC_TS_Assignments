@@ -24,4 +24,4 @@ function Make_Car (manufac:string, model:string, color="default")
 
 // calling Make car function
 
-Make_Car("Suzuki" , "Bolan", "White");
+console.log(Make_Car("Suzuki" , "Bolan", "White"));
