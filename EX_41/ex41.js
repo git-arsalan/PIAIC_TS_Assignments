@@ -11,4 +11,5 @@ function Make_Car(manufac, model, color) {
     return car;
 }
 // calling Make car function
+console.log(Make_Car("HONDA", "ACCORD"));
 console.log(Make_Car("Suzuki", "Bolan", "White"));
